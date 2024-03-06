@@ -26,3 +26,8 @@ server creation >> storing book data
 ## /books
     >>GET: Get all the books
     >>Post: Add new books
+
+### Subscription Type
+    >> Basic       (3 months)
+    >> Standard    (6 months)
+    >> Premium     (12 months)
